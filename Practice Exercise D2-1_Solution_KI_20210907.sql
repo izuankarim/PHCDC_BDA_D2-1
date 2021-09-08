@@ -2,7 +2,6 @@ use PHCDC
 CREATE TABLE Students (regno int, stname varchar(50), sqlmark int, pythonmark int, total int)
 
 --a.	Insert any five records (Note: insert null records to the total column)
-insert into Students values ('', '', '', '', '')
 insert into Students values (101, 'abu', 12, 23, '')
 insert into Students values (102, 'ali', 45, 21, '')
 insert into Students values (103, 'aru', 14, 26, '')
